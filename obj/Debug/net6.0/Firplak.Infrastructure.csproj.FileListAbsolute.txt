@@ -1,0 +1,17 @@
+C:\Users\alex2\source\repos\Flipark\bin\Debug\net6.0\Firplak.Infrastructure.deps.json
+C:\Users\alex2\source\repos\Flipark\bin\Debug\net6.0\Firplak.Infrastructure.dll
+C:\Users\alex2\source\repos\Flipark\bin\Debug\net6.0\Firplak.Infrastructure.pdb
+C:\Users\alex2\source\repos\Flipark\bin\Debug\net6.0\Firplak.Domain.dll
+C:\Users\alex2\source\repos\Flipark\bin\Debug\net6.0\Firplak.Domain.pdb
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.AssemblyInfo.cs
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.csproj.CopyComplete
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.dll
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\refint\Firplak.Infrastructure.dll
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.pdb
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\ref\Firplak.Infrastructure.dll
+C:\Users\alex2\source\repos\Flipark\bin\Debug\net6.0\Firplak.Infrastructure.runtimeconfig.json
+C:\Users\alex2\source\repos\Flipark\obj\Debug\net6.0\Firplak.Infrastructure.genruntimeconfig.cache
